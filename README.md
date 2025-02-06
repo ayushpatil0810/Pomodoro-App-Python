@@ -18,7 +18,7 @@ This Pomodoro App is a simple time management tool built with Python and Tkinter
 **1. Clone this repository:** 
 
 ```bash
-    git clone https://github.com/yourusername/pomodoro-timer.git
+    git clone https://github.com/ayushpatil0810/Pomodoro-App-Python.git
     cd pomodoro-timer
 ```
 
